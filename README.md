@@ -7,8 +7,6 @@ Use material-ui for most components, but feel free to use other libraries if nee
 
 **API:**
 
-getUser: http://projects.codeandtrust.com/api/user/{id}
-
 createUser: http://projects.codeandtrust.com/api/user/create
 
 POST_DATA:
@@ -16,6 +14,8 @@ POST_DATA:
 - user_email
 - user_phone
 - pairing
+
+getUser: http://projects.codeandtrust.com/api/user/{id}
 
 Forms and API:
 The form inside of your app should work and when the save button is pressed the data should be sent to the API
