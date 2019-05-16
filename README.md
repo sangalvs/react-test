@@ -2,12 +2,14 @@
 
 Info:
 Use the images in the assets folder to design your react app exactly the same
+
 Use material-ui for most components, but feel free to use other libraries if needed
 
-API:
-getUser:http://projects.codeandtrust.com/api/user/{{id}}
+**API:**
 
-createUser:http://projects.codeandtrust.com/api/user/create
+getUser: http://projects.codeandtrust.com/api/user/{{id}}
+
+createUser: http://projects.codeandtrust.com/api/user/create
 
 POST_DATA:
 - user_name
