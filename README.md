@@ -8,6 +8,7 @@ API:
 getUser:http://projects.codeandtrust.com/api/user/{{id}}
 
 createUser:http://projects.codeandtrust.com/api/user/create
+
 POST_DATA:
 user_name
 user_email
