@@ -17,5 +17,5 @@ POST_DATA:
 
 getUser: http://projects.codeandtrust.com/api/user/{id}
 
-Forms and API:
+**Forms and API:**
 The form inside of your app should work and when the save button is pressed the data should be sent to the API
