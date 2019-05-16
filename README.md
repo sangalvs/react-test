@@ -7,7 +7,7 @@ Use material-ui for most components, but feel free to use other libraries if nee
 
 **API:**
 
-getUser: http://projects.codeandtrust.com/api/user/{{id}}
+getUser: http://projects.codeandtrust.com/api/user/{id}
 
 createUser: http://projects.codeandtrust.com/api/user/create
 
