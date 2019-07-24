@@ -1,4 +1,4 @@
-# REACT-Test -- Write a single page react app that matches a design
+# REACT-Test -- Write a single page react web-app that matches a design
 
 Info:
 Use the images in the assets folder to design your react app exactly the same
